@@ -1,0 +1,20 @@
+[
+  {
+    "RoomType": "Single",
+    "Sleeps": 1,
+    "NumberOfRooms": 2,
+    "Prices": 30
+  },
+  {
+    "RoomType": "Double",
+    "Sleeps": 2,
+    "NumberOfRooms": 3,
+    "Prices": 50
+  },
+  {
+    "RoomType": "Family",
+    "Sleeps": 4,
+    "NumberOfRooms": 1,
+    "Prices": 85
+  }
+]
