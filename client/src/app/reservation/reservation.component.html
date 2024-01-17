@@ -1,0 +1,10 @@
+<div>
+  <label for="guests">Number of Guests:</label>
+  <input type="number" id="guests" [(ngModel)]="guests" />
+</div>
+<div>
+  <button (click)="makeReservation()">Make Reservation</button>
+</div>
+<div *ngIf="result !== ''">
+  <p>{{ result }}</p>
+</div>
